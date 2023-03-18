@@ -1,4 +1,4 @@
-# Pós-graduação - Business Intelligence & Analytics
+# Apoio de estudo - Pós-graduação - Business Intelligence & Analytics
 
 Anotações de Gabriel Vicente da pós-graduação da Escola Conquer de Business Intelligence & Analytics - 2023.
 
@@ -9,4 +9,4 @@ Divisões:
 
 ---
 ### Atenção ao leitor:
-os materiais desse repositório são de autoria minha através de percepções sobre as aulas como aluno, para ajudar na fixação do conteúdo, portanto, não há nenhum vínculo ou formalização desse repositório com a Escola Conquer.
+os materiais desse repositório são de autoria de Gabriel Vicente através de percepções sobre as aulas como aluno, para ajudar na fixação do conteúdo, portanto, não há nenhum vínculo ou formalização desse repositório com a Escola Conquer.
