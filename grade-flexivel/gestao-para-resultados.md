@@ -45,4 +45,5 @@
 #### ações macro para resolver as causas fundamentais:
 - avaliação 360 de líderes pelas equipes, conscientização sobre prazos e resultados, rodar pesquisas para entender momento de carreira do colaborador (onde está, onde quer chegar), criar planos de ação por colaborador.
 
-## Mantendo resultados: melhorias incrementais, disrruptivas e inovação.
+-----------------
+# Mantendo resultados: melhorias incrementais, disrruptivas e inovação.
