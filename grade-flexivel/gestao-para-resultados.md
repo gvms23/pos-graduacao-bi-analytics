@@ -1,25 +1,25 @@
 
 # O que é gestão para resultados:
 
-## Maiores pecados na gestão da empresa:
+### Maiores pecados na gestão da empresa:
 - Professor Falconi e HSM (fontes).
 - estabelecer estratégia e meta errada, muito alta, como se colocar a meta fosse alcançar, causa desânimo do time.
 - o líder erra quando acha que vai acontecer tudo do jeito que ele imaginava.
 
 
-## Gestão para resultados:
+### Gestão para resultados:
 - faz a gestão para indicadores finalísticos, ou seja, foco nos fins e não os meios.
 - parâmetros, metas e métricas -> focados nos indicadores.
 - no exemplo abaixo, cada área pode ter seu próprio meio de realizar medições, mas todas devem focar no resultado finalístico:
 - ![image](https://user-images.githubusercontent.com/24459642/226085299-cff20ef3-3d7e-4401-8e4f-a0aab12fb085.png)
 
-
-## Melhorando resultados: foco em indicadores finalísticos
+----------------
+# Melhorando resultados: foco em indicadores finalísticos
 - melhorias incrementais: pequenas melhorias construídas no dia a dia e no final mudamos a performance.
 - melhorias disruptivas e de inovação: curto espaço de tempo vai de um nível alto para o outro, desbravando o desconhecido.
 - gerenciamento ágil não é apenas para inovação.
 
-### 7 passos para melhorar resultados:
+### 6 passos para melhorar resultados:
 - 1. identificar o **problema geral**: explorar o problema genérico, como historicamente o indicador se comporta, análise de concorrente (lembrar do exemplo do NPS), análises históricas e comparativas.
 - 2. transformar o problema geral em um **problema específico**: o NPS baixo, por exemplo, acontece em apenas alguma época do ano? exemplo, é visto que o baixo NPS vem apenas no segmento de serviço, no varejo, sempre ligado à estratégia, dessa forma há um problema específico pra ser tratado.
 - 3. encontrar a **causa** do **problema específico**: tratar a causa e não sintoma, não dá pra tratar essa parte no problema geral, deve ser o específico, usar o diagrama de Ishikawa (diagrama do peixe), usando a técnica dos 5 porquês, exemplo: ![image](https://user-images.githubusercontent.com/24459642/226085543-99329a6a-6b0a-49e4-b988-62120f742ef8.png)
@@ -43,4 +43,6 @@
   - falta de conhecimento de líderes de como fazer, falta de visão sobre o que motiva o funcionário, falta de visão de plano de desenvolvimento.
 
 #### ações macro para resolver as causas fundamentais:
-- avaliação 360 de líderes pelas equipes, conscientização sobre prazos e resultados, rodar pesquisas para entender momento de carreira do colaborador (onde está, onde quer chegar), criar planos de ação por colaborador
+- avaliação 360 de líderes pelas equipes, conscientização sobre prazos e resultados, rodar pesquisas para entender momento de carreira do colaborador (onde está, onde quer chegar), criar planos de ação por colaborador.
+
+## Mantendo resultados: melhorias incrementais, disrruptivas e inovação.
