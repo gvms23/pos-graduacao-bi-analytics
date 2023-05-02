@@ -17,3 +17,7 @@
 
 Sistema Laura - Analytics para salvar vidas:
 ![image](https://user-images.githubusercontent.com/24459642/235804487-594fbcf4-6239-43f3-a35f-097419ab529c.png)
+
+
+Insights:
+um gráfico não pode ser interpretativo (storytelling)
