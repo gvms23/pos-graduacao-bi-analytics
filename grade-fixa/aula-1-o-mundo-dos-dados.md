@@ -1,3 +1,5 @@
+# Aula 1 - O mundo dos dados (02/05/2023)
+
 1. revolução cognitiva (70k anos)
 2. revolução agrícola (12k anos)
 3. revolução científica (500 anos)
