@@ -21,3 +21,7 @@ Sistema Laura - Analytics para salvar vidas:
 
 Insights:
 um gráfico não pode ser interpretativo (storytelling)
+
+
+Exercícios:
+cite 3 situações em que precisou se basear em dados e fatos para saber como agir.
