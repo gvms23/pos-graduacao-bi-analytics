@@ -1,4 +1,5 @@
 # Aula 1 - O mundo dos dados (02/05/2023)
+Prof: Kleber William Santos
 
 1. revolução cognitiva (70k anos)
 2. revolução agrícola (12k anos)
@@ -25,3 +26,5 @@ um gráfico não pode ser interpretativo (storytelling)
 
 Exercícios:
 cite 3 situações em que precisou se basear em dados e fatos para saber como agir.
+
+![image](https://user-images.githubusercontent.com/24459642/235813176-810e5342-646d-4513-907a-43f483004f0c.png)
