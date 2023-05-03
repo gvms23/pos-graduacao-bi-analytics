@@ -36,3 +36,7 @@ Case sucesso:
 
 Exercício:
 quais os dados que poderíamos gerar e que trariam valor
+
+Parte final:
+![image](https://user-images.githubusercontent.com/24459642/235816357-290b1869-502c-4c12-bdfa-1aded0d9bbe3.png)
+
