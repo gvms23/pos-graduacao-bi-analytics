@@ -32,3 +32,7 @@ Case falha:
 
 Case sucesso:
 ![image](https://user-images.githubusercontent.com/24459642/235813868-6f42d724-82b5-4ccd-a7bd-10e381d96ad7.png)
+
+
+Exercício:
+quais os dados que poderíamos gerar e que trariam valor
