@@ -27,4 +27,8 @@ um gráfico não pode ser interpretativo (storytelling)
 Exercícios:
 cite 3 situações em que precisou se basear em dados e fatos para saber como agir.
 
+Case falha:
 ![image](https://user-images.githubusercontent.com/24459642/235813176-810e5342-646d-4513-907a-43f483004f0c.png)
+
+Case sucesso:
+![image](https://user-images.githubusercontent.com/24459642/235813868-6f42d724-82b5-4ccd-a7bd-10e381d96ad7.png)
