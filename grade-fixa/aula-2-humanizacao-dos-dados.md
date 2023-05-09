@@ -26,3 +26,6 @@ integração de sistemas, um espaço entre uma origem e outra:
 
 dores trazidas:
 - necessidade de envolver pessoas de dados no começo do projeto de software por exemplo, evitando retrabalho.
+- falta de uso dos paineis após serem criados
+
+
