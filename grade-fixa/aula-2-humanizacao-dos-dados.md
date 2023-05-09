@@ -12,3 +12,13 @@ ex: será que um indicador não pode ter informações mais sucintas e depois te
 
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/10298c74-e890-414d-8e6e-2b11de19b9f1)
+
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/8c36d215-210a-4102-9940-b94773492987)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/ebe7688f-d29c-4848-90e7-f1184aa68535)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/fa784c0b-93ea-42e0-ad49-79b9b9413a7a)
+
+integração de sistemas, um espaço entre uma origem e outra:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/db2180b7-bb45-4aa0-8e5e-7f58ee6563b0)
