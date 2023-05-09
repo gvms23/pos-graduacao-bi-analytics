@@ -28,4 +28,7 @@ dores trazidas:
 - necessidade de envolver pessoas de dados no começo do projeto de software por exemplo, evitando retrabalho.
 - falta de uso dos paineis após serem criados
 
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/f943bd59-ab99-49ee-a9d5-74b65c44c77b)
+
+
 
