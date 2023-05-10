@@ -44,3 +44,19 @@ ____________
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/e0ae63c9-319e-45a9-9a89-fb9c8be59ce7)
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/dbd128a7-e6c7-4ad2-aa81-2fb406834a87)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/3f328928-bab2-4a51-850e-0e3bd6ccc1d1)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/6945eb8d-5b45-4270-90a8-fbfbe8a9af62)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/8ad20d4b-8c20-4375-adf7-b6ac87ad3e0a)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/5383b289-a439-49f5-80a5-6dd48361365d)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/aa53addc-7772-485e-9204-6196c6751266)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/c1a04516-2056-467d-b3cb-73c3246beb7b)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/a65bf22a-4e4a-4594-b870-f12ad5a73526)
+
+
