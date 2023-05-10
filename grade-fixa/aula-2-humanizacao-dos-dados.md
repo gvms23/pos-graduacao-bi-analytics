@@ -31,4 +31,16 @@ dores trazidas:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/f943bd59-ab99-49ee-a9d5-74b65c44c77b)
 
 
+Exercícios:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/b6a4ae62-7581-43ca-9836-081f8ffeb2e7)
 
+
+
+____________
+# Parte 2
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/3b2c5328-2d34-4de2-9eae-145f4e3033ee)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/e0ae63c9-319e-45a9-9a89-fb9c8be59ce7)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/dbd128a7-e6c7-4ad2-aa81-2fb406834a87)
