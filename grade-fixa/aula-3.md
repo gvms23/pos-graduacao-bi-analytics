@@ -31,5 +31,8 @@ ____________________
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/21df2b81-1eaf-44e7-b1fb-29646f3c17fc)
 
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/a819a211-4da1-4f33-a32e-073a1de49837)
+
+
 
 
