@@ -1,4 +1,8 @@
-# DEILAS:
+# Aula 3
+
+Prof. Sabrina Nazario ([Likedin](https://www.linkedin.com/in/sabrina-nazario-7138a822/))
+
+## Metodologia DEILAS:
 
 D – Defina Objetivos
 Nesta etapa definimos os objetivos que esta análise deve nos trazer, os dados eles devem trazer as respostas para as perguntas especificas de nosso problema. Sendo assim é necessário fazermos perguntas chaves para que os dados nos mostrem respostas.
@@ -24,3 +28,8 @@ Sugira tomadas de decisão embasada em dados analisados, de nada adianta anális
 ____________________
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/0c7c82d4-4322-4989-b33a-9d6a951c7048)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/21df2b81-1eaf-44e7-b1fb-29646f3c17fc)
+
+
+
