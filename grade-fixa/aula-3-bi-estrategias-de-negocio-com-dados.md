@@ -85,11 +85,9 @@ Entidades, chave primária, etc
 
 Perguntas montadas pelo grupo:
 1. Qual a categoria mais vendida por loja?
-
 2. Quais as categorias que os clientes com filhos mais compram por loja?
-
 3. Quais categorias mais vendem por mês por loja?
-
 4. Quais os TOP 10 clientes por loja?
-
 5. Qual o TOP 3 de marcas mais vendidas dentro de cada categoria de produtos.
+
+
