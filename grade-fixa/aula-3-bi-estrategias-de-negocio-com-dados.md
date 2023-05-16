@@ -48,3 +48,19 @@ Relembrando:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/632655ca-a7f8-4d3d-9419-65b830620976)
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/df279bfd-7f8e-46b0-933f-ce788cdda122)
+
+
+________________________
+
+## Tipos de modelagem de dados
+
+### Conceitual
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/6cbfe530-d80f-416a-86e4-394ad0280aad)
+
+### Lógico e Físico
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/c6c80621-7ac2-4b03-a3a7-ad3fb915742c)
+
+### Lógico
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/069bf62b-80d1-4f63-811b-6db6bf7b3f33)
+
+
