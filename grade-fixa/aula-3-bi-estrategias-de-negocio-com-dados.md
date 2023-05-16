@@ -66,3 +66,6 @@ ________________________
 ### Resumo
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/b636ea15-13a0-46a4-bc29-864ad76dd588)
 
+
+Ferramentas de BI
+PowerBI, Tableau, LookerStudio (Google), Excel
