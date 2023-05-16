@@ -33,6 +33,9 @@ ____________________
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/a819a211-4da1-4f33-a32e-073a1de49837)
 
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/97d82ad1-a96e-45cf-9442-9c04c5aa53d3)
 
+BI: Pegar dado cru, tratá-lo e responder uma dor que negócio tem, essa dor pode ser fácil de identificar ou extremamente complexa, é a conexão de dados diferentes e pode se tornar um plano de ação para negócios, tomando decisões assertivas (visão da professora).
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/657e76d2-e475-4815-92e1-92aa7d389a7a)
 
 
