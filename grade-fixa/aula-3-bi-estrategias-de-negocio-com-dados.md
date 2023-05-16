@@ -54,7 +54,7 @@ ________________________
 
 ## Tipos de modelagem de dados
 
-### Conceitual
+### Conceitual, Lógico e Físico
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/6cbfe530-d80f-416a-86e4-394ad0280aad)
 
 ### Lógico e Físico
@@ -63,4 +63,6 @@ ________________________
 ### Lógico
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/069bf62b-80d1-4f63-811b-6db6bf7b3f33)
 
+### Resumo
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/b636ea15-13a0-46a4-bc29-864ad76dd588)
 
