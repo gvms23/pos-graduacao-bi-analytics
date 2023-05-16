@@ -39,3 +39,5 @@ BI: Pegar dado cru, tratá-lo e responder uma dor que negócio tem, essa dor pod
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/657e76d2-e475-4815-92e1-92aa7d389a7a)
 
 
+
+
