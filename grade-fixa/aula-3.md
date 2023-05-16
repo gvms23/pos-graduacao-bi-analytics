@@ -47,4 +47,4 @@ Relembrando:
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/632655ca-a7f8-4d3d-9419-65b830620976)
 
-
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/df279bfd-7f8e-46b0-933f-ce788cdda122)
