@@ -98,9 +98,19 @@ ________________________________
 ________________________________
 
 
-Hacks:
+### Hacks:
 1. Defina com o usuário quais são os **objetivos de negócio**;
 2. Defina com o usuário quais são as metas que queremos atingir, precisamos O QUE medir;
 3. Defina com o usuário quais são as métricas usadas para medir o alcance da meta, ou seja, precisamos saber COMO medir;
 4. Quais os tipos de análise para responder à métrica que corresponde à meta?
 5. Mapeie as ações tomadas pelo usuário a partir da análise das metas;
+
+_______________________________
+Canvas do Data Design
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/9ac8e03f-0ce3-47a2-9e03-87b42806ce7a)
+
+______________________________
+
+Canvas + Complexo - Case Schneider):
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/30a133d8-f05d-44be-a139-fa1195e1ce47)
+
