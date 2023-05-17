@@ -1,4 +1,7 @@
+# Aula 2
 
+Prof: Kleber William Santos
+______________________________
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/df7e6535-324f-451f-9a8a-f4a041afc8d2)
 
