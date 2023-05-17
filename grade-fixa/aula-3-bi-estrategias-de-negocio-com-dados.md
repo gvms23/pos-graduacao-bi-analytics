@@ -117,3 +117,7 @@ Canvas + Complexo - Case Schneider):
 ______________________________
 Exercício:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/c7e12acc-4989-4883-9581-bf5a0801a18e)
+
+O material usado está na pasta de materiais.
+
+A resposta trouxe uma empresa fictícia de Software as a Service (SaaS) pelo know-how da Sala 9 (usamos a Netflix como exemplo), a meta era aumentar receita por recorrência e as metas eram diminuição de churn e aumento de upgrades, as métricas seriam medir a frequência de uso na plataforma e medir a quantidade de upgrades de planos, planos de ação seriam, incentivar ofertas por push notification, aumentar e melhorar os benefícios por plano, para aumentar a qtde. de upgrades de planos.
