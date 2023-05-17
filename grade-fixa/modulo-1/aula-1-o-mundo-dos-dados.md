@@ -1,4 +1,4 @@
-# Aula 1 - O mundo dos dados (02/05/2023)
+# Aula 1 - O mundo dos dados (02/05/23)
 Prof: Kleber William Santos
 
 1. revolução cognitiva (70k anos)
