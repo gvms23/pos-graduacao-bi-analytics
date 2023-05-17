@@ -1,7 +1,7 @@
-# Aula 3
+# Aula 3 - Business intelligence: estratégias de negócios com dados
 
 Prof. Sabrina Nazario ([Likedin](https://www.linkedin.com/in/sabrina-nazario-7138a822/))
-
+__________________________
 ## Metodologia DEILAS:
 
 D – Defina Objetivos
