@@ -128,3 +128,5 @@ ______________________________
 Adiantando o trabalho do último dia de aula:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/95396111-8a9e-4eb5-892f-d68ed7fbf6d9)
 
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/b0724c67-f7fb-4f3b-b5ce-5fed4a8243c5)
+
