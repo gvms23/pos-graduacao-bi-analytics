@@ -91,3 +91,16 @@ Perguntas montadas pelo grupo:
 5. Qual o TOP 3 de marcas mais vendidas dentro de cada categoria de produtos.
 
 
+________________________________
+
+>O melhor produto de dados é aquele que responde às perguntas de negócio!
+
+________________________________
+
+
+Hacks:
+1. Defina com o usuário quais são os **objetivos de negócio**;
+2. Defina com o usuário quais são as metas que queremos atingir, precisamos O QUE medir;
+3. Defina com o usuário quais são as métricas usadas para medir o alcance da meta, ou seja, precisamos saber COMO medir;
+4. Quais os tipos de análise para responder à métrica que corresponde à meta?
+5. Mapeie as ações tomadas pelo usuário a partir da análise das metas;
