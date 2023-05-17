@@ -114,3 +114,6 @@ ______________________________
 Canvas + Complexo - Case Schneider):
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/30a133d8-f05d-44be-a139-fa1195e1ce47)
 
+______________________________
+Exercício:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/c7e12acc-4989-4883-9581-bf5a0801a18e)
