@@ -20,3 +20,14 @@ _______________________
 _____________________
 
 Exercício
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/a2d73702-d3a8-4947-90cf-d1a68aa653eb)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/f0230ab0-bcee-4628-8bd6-5394d0ba8a86)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/7cf05b14-04ea-4610-a212-dc2403acfce3)
+
+
+____________________
+Insight da Aula:
+Ferramenta similarweb:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/4120034d-2e15-40b1-b99e-64fff1229f1a)
