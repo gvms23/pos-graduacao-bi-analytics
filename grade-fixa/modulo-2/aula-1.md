@@ -5,9 +5,18 @@
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/b8428d5d-0e54-43cd-abff-5ac9f5bb5ff4)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/f7ec7f55-ccbb-4d58-ab9d-d15f65003285)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/ea690073-344f-45f2-a46a-9084ebba9ddb)
+
+_______________________
+# Tipos de Análise
+
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/da7f5f8d-43c8-489e-b8e3-8fded375cf3d)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/77088c82-2f78-431c-abcf-65c292aeab6f)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/5c7cd0cf-570d-4c02-8700-16d951861567)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/f55dd135-9a49-4e32-83d1-145284d731e1)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/9341d803-ad05-4511-9b34-7aca4d594f4a)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/723b65c6-6743-4a29-968d-ae404ba2fffa)
+
+
+_____________________
+
+Exercício
