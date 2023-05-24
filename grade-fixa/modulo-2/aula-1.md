@@ -44,3 +44,10 @@ Insight:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/207e313d-f997-487a-82b8-92fa28b2b694)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/19202dc5-c33a-4bd2-86d7-086d916e243f)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/362b7e3e-c50e-4722-bd54-7599a71ed3a7)
+
+
+____________________
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/adacb8ed-8100-41de-9c16-9d66f5815f18)
+Resposta ruído: lembrar do exemplo do Genero: masculino, feminino, outros, analisar (XPTO, bla bla, etc)
+Reduzir outliers: verificar se um número não foge do padrão, ex: quase todos estão de 1 a 10, existe 1 apenas com 1.000.000.
