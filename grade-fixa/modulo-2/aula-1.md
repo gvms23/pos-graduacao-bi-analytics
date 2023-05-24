@@ -34,3 +34,13 @@ Ferramenta similarweb:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/6b510362-1b60-452a-96a9-08aff68b36af)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/efd8f58d-7260-4c49-bfcf-935d8cc19005)
 
+
+____________________
+Exercicio 2:
+
+____________________
+Insight:
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/207e313d-f997-487a-82b8-92fa28b2b694)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/19202dc5-c33a-4bd2-86d7-086d916e243f)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/362b7e3e-c50e-4722-bd54-7599a71ed3a7)
