@@ -31,3 +31,6 @@ ____________________
 Insight da Aula:
 Ferramenta similarweb:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/4120034d-2e15-40b1-b99e-64fff1229f1a)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/6b510362-1b60-452a-96a9-08aff68b36af)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/efd8f58d-7260-4c49-bfcf-935d8cc19005)
+
