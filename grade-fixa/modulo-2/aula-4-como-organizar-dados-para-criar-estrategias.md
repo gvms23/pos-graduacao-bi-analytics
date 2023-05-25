@@ -1,5 +1,6 @@
 # Aula 4 - Como organizar dados para criar estratégias
-## Professor: Iago Braz [Linkedin](https://www.linkedin.com/in/iagobraz/)
+Professor: Iago Braz [Linkedin](https://www.linkedin.com/in/iagobraz/)
+________________________
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/4e438a26-52d8-4bc5-9fa0-4c5857edaea7)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/ff2909fe-e4bf-447f-b884-6d5c3207a39a)
