@@ -65,5 +65,50 @@ as etapas 4 e 5 são circulares
 
 >Não é sobre fazer mais coisas; é sobre fazer as coisas certas. Michael Hyatt.
 
+- definir ciclos menores
+- definir o problema (guiar as pessoas a encontrar o problema, **apaixone-se pelo problema**)
+  - ferramentas para apoiar: 
+  - jornada do usuário;
+  - brainstorm de hipóteses;
+  - método sombra (a técnica envolve o acompanhamento de um usuário ou outro participante do processo ao longo de um período de tempo que inclui sua interação com o produto ou serviço a ser analisado, apenas anotando, sem interferir ou perguntar naquele momento);
+  - workshop de validação de hipóteses;
+- divergir: abrindo para discussão de como o problema pode ser resolvido.
+  - ferramentas para apoiar:
+  - crazy ideias (o método Crazy Eights é um exercício de brainstorming rápido e simples que desafia os membros do time a esboçar oito ideias em oito minutos. Ele mantém os participantes em seu limite, forçando o pensamento rápido e não permitindo tempo para excluir "ideias ruins".);
+  - world café (é um processo criativo baseado em diálogos entre indivíduos, numa elaboração coletiva e colaborativa para responder questões de grande relevância. Os participantes são divididos em grupos para conversar sobre um determinado tema previamente escolhido);
+  - como nós podemos;
+  - cocriação;
+  - cardápio de ideias;
+- convergir e decidir, quais as ideias que valem a pena na prototipação e testar;
+- planejar sprints (pensar no backlog, sprint planning, dailies, etc);
+- executar sprints (acompanhar nas dailies);
+- apurar resultados (sprint review);
+  - pensar na retrô 
+
+Exercício: Pense em alguma mudança que está acontecendo agora em seu segmento de atuação e que impacta seu negócio (e a qual mudança você ainda não se adaptou): identificar personas, principais dores.
+
+## Insights: 
+- ouvir a **voz do cliente**, tenha sempre um canal exclusivo pra isso, pois será o driver;
+- altere o planejamento quantas vezes for necessário para atingir o **resultado desejado**;
+
+Sugestões de leitura:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/8384cbd6-6a14-4cea-a9ae-deed8c7cc1c0)
 
 
+__________________________
+
+# O que é governança corporativa
+- transparência é confiança!
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/ec0e1dc2-67b1-4aaa-8f30-1e80169c2555)
+- mecanismos de aumentar a confiança entre as empresas e os stakeholders;
+
+### Principais perguntas:
+- quem é parte do conselho de administração?
+- o que esse conselho vota?
+- quem aprova este orçamento?
+
+### Princípios fundamentais:
+1. transparência (autêntico desejo de informar, coisas boas ou ruins)
+2. equidade (tratamento igualitário de todos os sócios)
+3. prestação de contas (consequência dos atos)
+4. responsabilidade corporativa (responsabilidade social, ambiental)
