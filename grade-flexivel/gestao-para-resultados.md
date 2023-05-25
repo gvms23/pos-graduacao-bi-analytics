@@ -112,3 +112,122 @@ __________________________
 2. equidade (tratamento igualitário de todos os sócios)
 3. prestação de contas (consequência dos atos)
 4. responsabilidade corporativa (responsabilidade social, ambiental)
+
+__________________________
+
+# Como aplicar a governança corporativa
+
+- definir hierarquia clara: estratégico, tático e operacional;
+- realizar reuniões de acompanhamento dos resultados;
+- formar um conselho de administração -> 5 a 11 membros (sempre ímpar para evitar empate de decisões);
+- ser diverso (benefício da pluralidade);
+- atuar tecnicamente (isenção emocional e financeira);
+- ser encarregado pelo processo de decisão -> direção estratégica;
+
+### ferramentas da gov corporativa:
+- auditoria independente (checar se os números estão corretos, números não são manipulados);
+- docs e estatuso no portal da empresa (acordo de acionistas, regimento interno, calendário de reuniões);
+- boas práticas do IBGC (Instituto Brasileiro de Governança Corporativa);
+- essenciais para capital aberto e muito prática para empresas privadas;
+
+Sugestões de leitura:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/0fc47a25-4b79-429c-b394-59133a4b25d6)
+
+_______________
+
+# Rituais de Gestão: quais são e porque são essenciais
+- objetivo: ferramentas estratégicas para engajar, impulsionar e melhorar a integração com as pessoas;
+- cultura dá o norte para os colaboradores na gestão;
+- ritual de passagem (ao entrar na empresa);
+- ritual de valorização (reconhecimento)
+- ritual de renovação (contrato);
+- ritual de redução de conflito (feedbacks);
+- ritual de integração (happy hours);
+
+### Insights
+- conheça as pessoas do time;
+- até um cafezinho pode ser uma ótima reunião de trabalho;
+- seja sutil, procure não fazer o tempo todo, não desmotive o time;
+
+### Humanizar o trabalho
+- onboarding (integração);
+- treinamentos;
+- rituais de gestão;
+- ofereça oportunidade para os destaques;
+- seja um lider humanizado (dê exemplo);
+
+### Insights:
+- melhore as comunicações;
+- observe as necessidades reais dos envolvidos;
+- faça mentoria (se não tiver domínio);
+- contrate uma consultoria;
+- procure conteúdos (normas ISO por exemplo);
+- benefícios:
+  - satisfação do time;
+  - redução de rotatividade;
+  - retenção de capital humano;
+  - aumento de produtividade;
+
+Sugestões de leitura:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/7b23a509-31c5-4a0a-be56-2e8f055d8c7e)
+
+
+___________________________
+
+# Transformando conflitos em oportunidades
+- conflitos: choque de 2 coisas, embate de 2 forças contrárias;
+- tipos: opinião, ideia, valores, desejos, motivações;
+
+### conflito vs oportunidades
+- naturais e inevitáveis;
+- soluções inovadoras e criativas;
+- conflitos externos (paises, empresas);
+- conflitos internos (empresa, áreas, departamentos);
+- o que causa?
+  - mudanças (tecnológica, escopo, estrutura, comportamento);
+  - recursos limitados;
+  - metas e objetivos;
+  - comunicação ineficiente;
+
+### Conflito se torna oportunidade
+- identifica com antecedência;
+- empatia com pessoas;
+- enfrente ao invés de evitá-lo;
+- calma, clareza e respeito;
+- planejamento;
+- acordos;
+- incentiva os envolvidos a buscarem a razão do conflito;
+- ferramentas e métodos;
+- reconheça seus limites, busque ajuda!
+
+### Insights:
+> O que determina se o conflito é construtivo ou negativo é a **motivação** das pessoas envolvidas
+> As tragédias verdadeiras no mundo não são conflitos entre o certo e o errado. **São conflitos entre dois direitos**. Georg Hegel.
+- Na guerra, os dois lados "sempre" têm razão.
+
+Sugestões de leitura:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/34c43e3e-9a63-460a-ac19-d7ae2679f4cc)
+
+___________________________________
+
+# Reforçando a cultura e reafirmando princípios
+- cultura: conjunto de práticas, hábitos, normas e valores que guiam comportamento de colaboradores numa empresa;
+- vídeo da Natura (video da pandemia, Natura trazendo empatia e valorização das pessoas);
+- vídeo do Google (video do processo seletivo, falando das habilidades buscadas na entrevista independentemente do cargo: habilidade cognitiva, entender situações problemáticas, mostrar que entendeu, formular soluções e comunicá-las ao entrevistador, busca de características de liderança não importando o nível);
+- vídeo do Mercado Livre (aquisição de um imóvel, trazendo proximidade com os colaboradores, com clientes, sustentabilidade, responsabilidade, "melicidade", casa do mercado livre);
+
+### Reforçando a cultura
+- cultura precisa ser organizada, vivida integralmente por todos, defendida pela liderança;
+- recrutamento e seleção alinhados;
+- conheça o perfil dos colaboradores;
+- medir clima organizacional;
+- comunicação interna eficiente;
+- promover desenvolvimento profissional;
+- todos estão na mesma página do que está acontecendo?
+
+Sugestões de leitura:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/e6015cf9-6623-4f94-88cb-932b16759455)
+
+____________________________________________
+
+# Gestão da mudança: melhores práticas
