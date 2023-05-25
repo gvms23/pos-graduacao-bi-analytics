@@ -231,3 +231,62 @@ Sugestões de leitura:
 ____________________________________________
 
 # Gestão da mudança: melhores práticas
+> quem fica parado é poste!
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/d25da8e5-e16c-4b80-ad64-0c4133d8405a)
+
+- grandes mudanças são barreiras para muitas pessoas;
+- imortante entender o estado atual -> transição (quanto tempo leva?) -> estado futuro (como estaremos com essa mudança?);
+- 2 tipos de gestão de mudança (instalada - é rápida, mas traz mais conflitos, precisamos reinventar às vezes VS implementada - ótimos benefícios, mas tem alto custo e tempo, estimar tempo, treinar pessoas sobre o processo da mudança)
+
+### Questões:
+- por que a mudança é necessária
+- o que pode continuar como está? (priorização)
+- onde a organização precisa chegar (até onde vai a mudança)
+- como será quando a mudança for implementada?
+- como chegar lá?
+- qual o custo?
+- oportunidades e problemas?
+- e se falharmos? tem plano B?
+- o que é esperado com essa mudança?
+- o modelo de trabalho vai mudar? como?
+- qual a previsão pra realizar a mudança?
+- quais mudanças comportamentais serão necessárias?
+- quem é o sponsor da mudança?
+- quem deseja a mudança?
+
+### Aprendizados
+- as mudanças normalmente funcionam melhor quando vêm num nível mais alto, no nível organizacional e são replicadas em unidades locais (departamentos, squads, etc);
+- normalmente quando as mudanças são feitas em unidades locais não costuma se sustentar
+
+### Construir rede de mudanças
+- rede política de poder e influência;
+- quais áreas/pessoas precisam ser envolvidas com muita antecedência;
+- quais os possívels impacto (ego, cultura, hierarquia)?
+- quem são as pessoas-chave para assegurar apoio, patrocínio e influência?
+- quais as áreas críticas que em qualquer falha pode inativar a mudança?
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/7a61d8c9-9b0f-44b0-bba2-b94e1d2dea49)
+
+- quem são as pessoas influentes na sua rede? às vezes o coordenador possui influência na diretoria, ou uma squad possui influência na gerência...
+
+
+### Insights de engajamento
+- crie discurso de elevador (vender a ideia rapidamente);
+- crie variações do discurso (adapte o discurso ao ouvinte);
+- possíveis pontos de resistência (pessoas, áreas, processos);
+- analise riscos e impactos iniciais;
+- prepare pessoas, use os influenciadores;
+- dê ferramentas;
+- plano de comunicação claro e eficiente (elimine conversas de corredor);
+- reconheça e recompense (presentes, e-mails, homenagem, méritos, etc);
+
+> Nada é permanente, **exceto a mudança**. Heráclito.
+
+Sugestões de leitura:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/38682a42-20e7-49f4-b0a3-4eabb6526202)
+
+
+__________________________
+
+# Gestão de produtividade: 5W2H1D e planejamento pessoal
