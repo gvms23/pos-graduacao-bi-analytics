@@ -290,3 +290,43 @@ Sugestões de leitura:
 __________________________
 
 # Gestão de produtividade: 5W2H1D e planejamento pessoal
+
+- gestão de produtividade: estratégias e táticas para engajar e motivar o time, gerando eficiência e aumentando a produtividade;
+- baseie-se em dados (é preciso medir por metas -> específicas, mensuráveis, atingíveis, realistas e temporizáveis);
+
+### Como fazer?
+- forneça infraestrutura e ferramentas adequadas;
+- invista em treinamentos;
+- melhore a comunicação interna;
+- realize e incentive reuniões objetivas (nada de reunião pra marcar reunião);
+- reduza tarefas desnecessárias e automatize se possível;
+- reconheça os colaboradores;
+
+### Planos de ação:
+Ferramenta 5W2H1D
+- 5W:
+  - What, Why, Where, When, Who;
+- 2H:
+  - How, How much;
+- 1D:
+  - Deadline;
+
+### Insight:
+- elimine as coisas que atrapalham a produtividade (colegas de trabalho, procrastinação em redes sociais);
+- sugestões: 
+  - planeje o dia, a semana (use o domingo a noite);
+  - identifique seus períodos mais produtivos (manhã, tarde, noite);
+  - faça uma coisa por vez;
+  - execute tarefas por ordem de complexidade;
+  - durma bem;
+  - organize-se;
+  - diga **não**;
+
+> Já percebi que muitas pessoas progridem **durante o tempo que outras perdem**. Henry Ford.
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/15cca00a-554b-44fc-b1bb-4d907b3ea551)
+
+
+Sugestões de leitura:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/d86da608-64b1-48a5-87aa-e726f0b1577b)
+
