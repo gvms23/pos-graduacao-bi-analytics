@@ -2,8 +2,7 @@
 # O que é gestão para resultados:
 
 ### Maiores pecados na gestão da empresa:
-- Professor Falconi e HSM (fontes).
-- estabelecer estratégia e meta errada, muito alta, como se colocar a meta fosse alcançar, causa desânimo do time.
+- estabelecer estratégia e meta errada, muito alta, como se colocar a meta fosse alcançar, causa desânimo do time (na visão do Professor Falconi e da HSM);
 - o líder erra quando acha que vai acontecer tudo do jeito que ele imaginava.
 
 
@@ -47,3 +46,24 @@
 
 -----------------
 # Mantendo resultados: melhorias incrementais, disrruptivas e inovação.
+- 1. identificar qual o KPI que desejo manter/estabilizar
+- 2. definir limites mínimos e máximos de variação do indicador
+- 3. publique para a equipe essas informações, a equipe que irá atuar nessa evolução precisa acompanhar
+- 4. definir padrões para manter o resultado:
+  - mapear processos;
+  - definir padrões de trabalho operacional (PTPs - Padrão Técnico de Processos), lembrando que deve ser vivo e não estático;
+  - quais as tarefas críticas;
+  - definir matriz de treinamento;
+  - supervisionar se o trabalho está sendo feito corretamente, analisando se o padrão está sendo cumprido baseado nos padrões esperados;
+- 5. os resultados estão sendo mantidos? podemos melhorar os padrões?
+- 6. identificar anomalias.
+
+as etapas 4 e 5 são circulares
+
+------------------
+# Gerenciamento ágil voltado para resultados
+
+>Não é sobre fazer mais coisas; é sobre fazer as coisas certas. Michael Hyatt.
+
+
+
