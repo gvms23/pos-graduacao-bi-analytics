@@ -24,3 +24,4 @@ ____________________
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/13502e71-dd1f-4311-8845-f23c49a84e04)
 
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/df4f3acd-56ab-4dd7-befd-88968e08a0ce)
