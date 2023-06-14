@@ -25,3 +25,15 @@ ____________________
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/13502e71-dd1f-4311-8845-f23c49a84e04)
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/df4f3acd-56ab-4dd7-befd-88968e08a0ce)
+
+_______________________
+
+Clusterização
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/9883fc2b-b778-47a5-a65b-7787657f5b2d)
+
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/7256f725-097b-407a-ac13-2c325b674b9d)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/c7338751-c7f1-4b9d-9205-1016de63d397)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/cc6d5dbb-abd6-4fee-a07c-619fb01a5550)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/7a07e31c-6625-4493-acaa-4d46d7b679a9)
