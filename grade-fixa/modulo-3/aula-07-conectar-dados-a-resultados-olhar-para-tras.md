@@ -37,3 +37,11 @@ Clusterização
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/cc6d5dbb-abd6-4fee-a07c-619fb01a5550)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/7a07e31c-6625-4493-acaa-4d46d7b679a9)
+
+
+_______________________
+
+Uso do Log Likelihood
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/1a7a6ff4-6273-4e98-89ec-0613c1527aff)
+
