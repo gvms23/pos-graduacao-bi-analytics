@@ -7,3 +7,17 @@ Prof. [Sabrina Nazario](https://www.linkedin.com/in/sabrina-nazario-7138a822/)
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/9caa22ff-25f1-46b2-be34-741edd6f7337)
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/3af769bc-15c8-4076-a06e-f9d15f5b24c7)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/33ca4b5a-91d1-4012-8fa5-32ee39d8491c)
+
+_____________________
+
+Conversão de texto para números:
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/db4217a7-e476-4d35-a91a-6c275f65e04f)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/47277db0-7693-42ad-92ad-bd03f9ce2622)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/81ee39b5-c595-4cb6-8b2e-9e226703130f)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/4ceb111e-5ce5-428c-b675-030214dcdd3d)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/c1160b79-5a6b-4204-a9a4-7a1fb96f5584)
