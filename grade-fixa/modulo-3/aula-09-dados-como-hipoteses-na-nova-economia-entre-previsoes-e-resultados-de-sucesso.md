@@ -21,3 +21,7 @@ Conversão de texto para números:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/4ceb111e-5ce5-428c-b675-030214dcdd3d)
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/c1160b79-5a6b-4204-a9a4-7a1fb96f5584)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/51965e38-2eb2-469c-8980-748772275419)
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/142578e1-8979-4885-a62a-6a3273b62872)
