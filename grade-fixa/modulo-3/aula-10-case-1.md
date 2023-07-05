@@ -23,3 +23,7 @@ Case 2 - Parte 1 - mão na massa:
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/bbea3f5f-5cf5-4004-b895-eaa5ab862f6d)
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/c44d2821-7da0-40bf-9fd4-6b60e6d436b0)
+
+
+Case 2 - parte 2
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/f989bf33-d21a-4c83-861f-120eecab0898)
