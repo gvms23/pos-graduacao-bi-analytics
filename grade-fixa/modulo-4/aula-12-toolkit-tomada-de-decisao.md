@@ -18,3 +18,13 @@ Incerteza (sem prever com exatidão, chance de evento externo acontecer não pre
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/2d7bd434-8164-4b30-8fdf-c21655b162ce)
 
 
+________________
+
+Exercício:
+
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/89adf535-555c-4fc3-8892-c592c38aac3d)
+
+________________
+
+Two way doors decisions
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/bd1ac3d0-8aad-43cb-a24f-390234fbc476)
