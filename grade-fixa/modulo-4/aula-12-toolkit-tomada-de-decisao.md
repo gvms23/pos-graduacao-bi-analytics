@@ -39,4 +39,7 @@ Two way doors decisions
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/12b13eaf-865e-49eb-ad0d-caec7fb5d281)
 
 ![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/6deaac2e-af91-4d41-a9ec-7faa0a2b6aec)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/7978ae9a-5723-48f9-aa8a-74c87322808c)
+![image](https://github.com/gvms23/pos-graduacao-bi-analytics/assets/24459642/55276b9d-1dfb-4f7c-899e-a9114705555f)
+
 
